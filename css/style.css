@@ -23,4 +23,9 @@
 
 /* Button CSS */
 
-
+h1{
+color:black;
+text-align: center;
+font-family: comic sans ms;
+font-size:40px;
+}
