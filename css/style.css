@@ -24,8 +24,13 @@
 /* Button CSS */
 
 h1{
-color:black;
+color:blue;
 text-align: center;
 font-family: comic sans ms;
 font-size:40px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
 }
